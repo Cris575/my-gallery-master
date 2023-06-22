@@ -21,7 +21,9 @@ body {
   font-size: 1.6rem;
   font-family: 'Montserrat', sans-serif;
 }
-
+img{
+  border-radius: 2rem;
+}
 .profile {
  text-align: center;
 }
